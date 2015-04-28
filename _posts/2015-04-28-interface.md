@@ -20,7 +20,7 @@ In the top left you will see the Parties that Beagle figured out.  Unfortunately
 
 ###Collaboration
 
-Below and to the left of the Parties you will see two icons.  The one on the right allows you to invite another person to collaborate.  Once you click on the icon you can fill in their email address and click ADD.  An email invitation to only that user, and document will be sent.  You may remove them just as easy.  Just click on the red X over their icon once they have joined. See (Invitation)[./doc/invitation.html] for more information.
+Below and to the left of the Parties you will see two icons.  The one on the right allows you to invite another person to collaborate.  Once you click on the icon you can fill in their email address and click ADD.  An email invitation to only that user, and document will be sent.  You may remove them just as easy.  Just click on the red X over their icon once they have joined. See [Invitation](./doc/invitation.html) for more information.
 
 ###Analysis
 
