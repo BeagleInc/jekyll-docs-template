@@ -18,12 +18,15 @@ code {
     color: inherit;
 }
 
+.header-bar {
+    color: #fff;
+    background-color: #5D101A;
+    padding: 20px 20px 0;
+}
 
 #header {
     border-bottom: 1px solid #eee;
     margin-bottom: 20px;
-    color: #fff;
-    background-color: #5D101A;
 }
 
 #header a:hover {
