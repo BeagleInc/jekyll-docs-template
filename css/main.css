@@ -18,9 +18,12 @@ code {
     color: inherit;
 }
 
+
 #header {
     border-bottom: 1px solid #eee;
     margin-bottom: 20px;
+    color: #fff;
+    background-color: #5D101A;
 }
 
 #header a:hover {
